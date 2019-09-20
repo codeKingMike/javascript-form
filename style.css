@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+#mainForm {
+    background-color: green;
+    min-height: 400px;
+    padding: 20px;
+    
+}
+#mainForm button {
+    align-items: center;
+}
+#form1 {
+    background-color: rosybrown;
+    padding-top: 20px;
+    margin: 40px;
+}
+#inputResults {
+    font-family: 'Open Sans', sans-serif;
+    background-color:  darkgray;
+    text-align: center;
+    min-height: 300px;
+    font-size: 40px;
+}
