@@ -14,9 +14,33 @@ h1 {
     align-items: center;
 }
 #form1 {
-    background-color: rosybrown;
+    background-color: #e3e3e3;
     padding-top: 20px;
-    margin: 40px;
+    width: 80%;
+    margin: 0 auto;
+    /* margin: 0 60px; */
+    /* padding: 0 150px; */
+}
+#form1 label {
+    font-size: 1.2rem;
+    padding: 10px;
+}
+#form1 input {
+    width: 80%;
+    margin: 10px;
+}
+/* #inputState option {
+    width: 80%;
+    margin: 10px;
+    font-size: 1.2rem;
+    padding: 10px;
+} */
+.form-check label {
+    width: 80%;
+    margin: 10px;
+}
+button {
+    margin-left: 30px;
 }
 #inputResults {
     font-family: 'Open Sans', sans-serif;
